@@ -1,0 +1,30 @@
+/* #navClass{
+  width: 15%;
+  margin: left;
+  margin: %;
+  padding: 1%;
+  background-color: black;
+} */
+.navUL {
+  navLIst-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navLI{
+  float: left;
+}
+
+.navLI a {
+  display: block;
+  color: white;
+  text-anavLIgn: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navLI a:hover {
+  background-color: #111;
+}
